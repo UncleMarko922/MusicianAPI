@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a05db486-c4df-4120-a50a-1d63c6c1147a": {
+      "ProjectGuid": "a05db486-c4df-4120-a50a-1d63c6c1147a",
+      "DisplayName": "MusicianAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
